@@ -1,10 +1,3 @@
-Rakan Ghaith
-M738R656
-CS 540 Operating systems
-Programming Assignment 1
-02/08/2024
-
-
 This Program will present the user with a list of 6 options.
 These 6 options are: 	1. list directory 
 			2. Print Working Directory 
